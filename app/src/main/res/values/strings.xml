@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QUIZZED!</string>
+    <string name="start_name">QUIZZED!</string>
+    <string name="welcome">Welcome!</string>
+    <string name="enter_name">Please enter your name:</string>
+    <string name="hint">Mustafa Ariwala</string>
+    <string name="start">Start</string>
+    <string name="quiz_image">Quiz Image</string>
+    <string name="submit">SUBMIT</string>
+</resources>
